@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: 35e2b7a90085a394caf3276627bb5990
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: monster 1 parts_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 939
+        width: 535
+        height: 581
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster 1 parts_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 776
+        width: 179
+        height: 129
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster 1 parts_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1646
+        width: 538
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster 1 parts_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1608
+        width: 352
+        height: 361
+      alignment: 9
+      pivot: {x: .399365336, y: .125337809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster 1 parts_4
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1501
+        width: 306
+        height: 374
+      alignment: 9
+      pivot: {x: .455248058, y: .0768922195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster 1 parts_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1021
+        width: 537
+        height: 455
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster 1 parts_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 967
+        height: 816
+      alignment: 9
+      pivot: {x: .500176907, y: -.148711324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
